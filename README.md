@@ -92,4 +92,4 @@ dragon-of-combinatorics/
 
 ## Licença
 
-MIT — Caio Ferreira Alves Pereira · 2025
+MIT — Caio Ferreira Alves Pereira · 2026
